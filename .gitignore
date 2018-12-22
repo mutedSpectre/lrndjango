@@ -1,9 +1,8 @@
-
-.idea/Django.iml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-mysite/__pycache__/__init__.cpython-37.pyc
 myvenv
-db.sqlite
+db.sqlite3
+__pycache__
+.idea
+/static
+.DS_Store
+*.pyc
+*~
